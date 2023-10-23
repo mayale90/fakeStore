@@ -29,7 +29,7 @@ En el archivo **fakeStore.feature** Dar Click derecho y ejecutar la opción > Ru
 ## Reporte
 Luego de realizar la ejecución podemos revisar el reporte  **karate-summary.html** que se encuentra en el siguiente path:
 ```bash
-PracticaPetStore\build\karate-reports\karate-summary.html
+fakeStore\build\karate-reports\karate-summary.html
 ```
 
 > **NOTA**:
